@@ -582,6 +582,7 @@ footer .social li a:hover {
 .navbar-default .navbar-form {
 	border-color: transparent;
 	background: transparent;
+	color: #212121;
 	padding-bottom: 20px;
 }
 
